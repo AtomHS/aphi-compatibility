@@ -10,7 +10,7 @@ jobs:
   # The workflow job name
   discord-notifier:
     # Name of the enviroment
-    env: secrets
+    environment: secrets
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
     # Sequence of tasks
