@@ -1,5 +1,5 @@
 # => Build container
-FROM node:10-alpine as build
+FROM node:16-alpine as build
 
 COPY package.json /package.json
 
