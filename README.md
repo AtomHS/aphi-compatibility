@@ -1,1 +1,1 @@
-# atomic-app
+# aphi-compatibility
